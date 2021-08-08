@@ -10,7 +10,7 @@ const Title = ({ children }: Props) => {
     <Typography
       style={{ marginBottom: 30 }}
       component="h2"
-      variant="h6"
+      variant="h4"
       color="primary"
       gutterBottom
     >

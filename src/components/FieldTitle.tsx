@@ -7,7 +7,7 @@ interface Props {
 
 const FieldTitle = ({ children }: Props) => {
   return (
-    <Typography component="h3" variant="h6" color="primary" gutterBottom>
+    <Typography component="h6" variant="h6" color="textPrimary" gutterBottom>
       {children}
     </Typography>
   );
